@@ -8,6 +8,7 @@ Personal development project which takes food data off the internet and tracks i
 - Learn to work in a **CI/CD** pipeline
 - Learn how to create and use **Github actions**
 - Pay extra attention to **Code Structure & Readability**
+- Learn to write end-to-end tests
 
 # Backend
 - Learn **Node.js**
