@@ -10,9 +10,9 @@ Personal development project which takes food data off the internet and tracks i
 - Pay extra attention to **Code Structure & Readability**
 
 # Backend
-- Learn **React**
+- Learn **Node.js**
 - Use **Postgresql** with **Raw SQL** to gain a deeper understanding of queries
 
 # Frontend
-- Learn **Node.js**
+- Learn **React**
 - Learn to use **HTML/CSS** effectively
