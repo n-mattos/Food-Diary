@@ -17,3 +17,7 @@ Personal development project which takes food data off the internet and tracks i
 # Frontend
 - Learn **React**
 - Learn to use **HTML/CSS** effectively
+
+# Resources
+- [Setup](https://dev.to/techcheck/creating-a-react-node-and-express-app-1ieg)
+- [Node Best Practices](https://alexkondov.com/tao-of-node/#structure-in-modules)
