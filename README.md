@@ -27,3 +27,6 @@ Personal development project which takes food data off the internet and tracks i
 # Resources
 - [Setup](https://dev.to/techcheck/creating-a-react-node-and-express-app-1ieg)
 - [Node Best Practices](https://alexkondov.com/tao-of-node/#structure-in-modules)
+- [ReactJS Tutorial - Header](https://www.youtube.com/watch?v=EHXnTSIcG4w)
+- [React Native - Flexbox](https://reactnative.dev/docs/flexbox)
+- [React Router - Link](https://reactrouter.com/api/components/Link#relative)
